@@ -2322,6 +2322,7 @@ SharkGame.HomeActions = {
         outcomes: [
             "Tireless crafter fuses the matter.",
             "Tireless crafter never ceases.",
+            "Tireless crafter is tired",
             "Tireless crafter lays foundation for a future.",
             "Tireless crafter is an accident waiting to happen."
         ],
@@ -2509,6 +2510,7 @@ SharkGame.HomeActions = {
             "These machines feel strangely alive. They pulse and throb.",
             "There exist more prosthetic polyps now.",
             "The biomachine expands.",
+            "They are working now.",
             "The octopuses tell me, find unity in efficiency. Find peace in creation."
         ],
         helpText: "This octopus machine synthesizes coral faster than an entire colony of polyps ever could."
