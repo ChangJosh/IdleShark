@@ -14,6 +14,9 @@ SharkGame.HomeActions = {
             // no prereqs
         },
         outcomes: [
+            "What kind of fish only comes out at night? A starfish.",
+            "Why did the fish get bad grades? Because it was below sea level.",
+            "You commited murder on a fish.",
             "Dropped the bass.",
             "Ate a kipper. Wait. Hang on.",
             "You eat a fish hooray!",
@@ -21,6 +24,7 @@ SharkGame.HomeActions = {
             "Ate a ___.",
             "Ate a shark. Wait. No, it wasn't a shark.",
             "Ate an anchovy.",
+            "Ate a dogfish.",
             "Ate a catfish.",
             "Ate a flounder.",
             "Ate a haddock.",
@@ -28,6 +32,7 @@ SharkGame.HomeActions = {
             "Ate a mackerel.",
             "Ate a mullet.",
             "Ate a perch.",
+            "Ate a fish.",
             "Ate a pollock.",
             "Ate a salmon.",
             "Ate a sardine.",
@@ -74,6 +79,9 @@ SharkGame.HomeActions = {
             ]
         },
         outcomes: [
+            "You got a sponge.",
+            "You sperated a sponge from it's family. Nice job.",
+            "Pried something from the rocks.",
             "Pried an orange elephant ear sponge from the rocks.",
             "Pried a brain sponge from the rocks.",
             "Pried a branching tube sponge from the rocks.",
@@ -212,6 +220,10 @@ SharkGame.HomeActions = {
             "There's science inside these things, surely!",
             "The cause of science is advanced!",
             "This is perhaps maybe insightful!",
+            "These apples are good",
+            "Steve Jobs would be proud",
+            "Did we learn anything from this?",
+            "I got got 100 more IQ points from that.",
             "SCIENCE!",
             "Did we get smarter? Maybe...",
             "Why are we even doing this? Who knows! Science!",
@@ -240,6 +252,10 @@ SharkGame.HomeActions = {
             ]
         },
         outcomes: [
+            "Did we learn anything from this?",
+            "I got got 100 more IQ points from that.",
+            "SCIENCE!",
+            "Did we get smarter? Maybe...",
             "Squishy porous science!",
             "The sponge has been breached and the science is leaking out!",
             "This is the best use of a sponge. Teeth dissections are the best.",
@@ -269,11 +285,18 @@ SharkGame.HomeActions = {
             ]
         },
         outcomes: [
+            "Did we learn anything from this?",
+            "I am never going to do this again",
+            "I got got 100 more IQ points from that.",
+            "SCIENCE!",
+            "Did we get smarter? Maybe...",
+            "*barfing noises*",
             "Eww eww gross it's so gloopy and fragile and OW IT STUNG ME",
             "These things are like a bag of wonders. Weird, tasteless wonders.",
             "Wow, sea apples seemed weird, but these things barely exist.",
             "Well, they turned out just as fragile as they looked.",
-            "So interesting!"
+            "So interesting!",
+            "STOP STINGING ME!!!"
         ],
         helpText: "Examine the goop inside the stinging jellies! Discovery!"
     },
@@ -333,6 +356,8 @@ SharkGame.HomeActions = {
             "Transformation libation!",
             "Transfiguration nation! ...wait.",
             "Sharkonium arise!",
+            "I think this is right",
+            "Did I do it right? I think so...",
             "Arise, sharkonium!",
             "More sharkonium!",
             "The substance that knows no name! Except the name sharkonium!",
@@ -389,6 +414,7 @@ SharkGame.HomeActions = {
         outcomes: [
             "Fusion confusion.",
             "Fission's fishy.",
+            "Why did we make this? I thought it was useless!",
             "Delphinium, something that, much like its inventors, just isn't quite as legitimate in the ocean.",
             "Delphinium, a substance we tolerate!",
             "Delphinium! It's a product!",
@@ -416,6 +442,7 @@ SharkGame.HomeActions = {
         },
         outcomes: [
             "It pulses. That's unsettling.",
+            "Wait what is this thing?",
             "It shakes and quivers and otherwise acts sort of like sharkonium which is kind of freaking me out uh help",
             "Well, the octopuses know how to use this, I think.",
             "What... what <em>is</em> that?!",
@@ -470,6 +497,8 @@ SharkGame.HomeActions = {
             "A spinner shark joins you.",
             "A spot-tail shark joins you.",
             "A mako shark joins you.",
+            "A dead shark joins you.",
+            "A dead shark joins you. Wait, what?",
             "A tiger shark joins you.",
             "A tawny shark joins you.",
             "A white shark joins you.",
@@ -479,6 +508,8 @@ SharkGame.HomeActions = {
             "A whole bunch of sharks join you.",
             "That's a lot of sharks.",
             "The shark community grows!",
+            "So many sharks!",
+            "Look at all of these sharks!",
             "More sharks! MORE SHARKS!",
             "Sharks for the masses. Mass sharks.",
             "A shiver of sharks! No, that's a legit name. Look it up.",
@@ -531,6 +562,8 @@ SharkGame.HomeActions = {
             "A atlantic torpedo ray joins you.",
             "A panther torpedo ray joins you.",
             "A spotted torpedo ray joins you.",
+            "A dead ray joins you. Wait what?",
+            "A dead ray joins you.",
             "A ocellated torpedo joins you.",
             "A caribbean torpedo joins you.",
             "A striped stingaree joins you.",
@@ -582,6 +615,8 @@ SharkGame.HomeActions = {
             }
         },
         outcomes: [
+            "A dead crab joins you.",
+            "A dead crab joins you. Wait what?",
             "A crab starts sifting shiny things out of the sand.",
             "A bering hermit joins you.",
             "A blackeye hermit joins you.",
