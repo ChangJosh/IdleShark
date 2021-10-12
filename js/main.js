@@ -12,7 +12,7 @@ $.extend(SharkGame, {
         "Angry Sharks",
         "Super Shark Bros.",
         "Grand Shark Auto V",
-        "Sharky the Hedgehog
+        "Sharky the Hedgehog",
         "Shark Crush Saga",
         "You Have To Name The Shark Game",
         "Shark A Lark",
