@@ -21,7 +21,7 @@ The best ocean idle game ever made
   
   You can play the stable version with the link below:
   
-  **[https://3kh0.github.io/idle-shark/](https://3kh0.github.io/idle-shark/)**
+  **[https://robertbtw.github.io/idle-shark/](https://robertbtw.github.io/idle-shark/)**
   
   ### Test build
   
